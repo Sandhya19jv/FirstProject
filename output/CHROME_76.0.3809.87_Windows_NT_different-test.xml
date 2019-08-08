@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="6">
+
+  <testsuite name="different-test"
+    errors="0" failures="0" hostname="" id="" package="different-test" skipped="0"
+    tests="6" time="95.20" timestamp="">
+  
+    <testcase name="Does not show the task list if there are no tasks" classname="different-test" time="6.051" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="On page load, it sets focus on the input field" classname="different-test" time="9.058" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="When I add a task, it shows todo items" classname="different-test" time="26.50" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Marks a todo item as completed by striking through it" classname="different-test" time="10.02" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Shows how many items there are left" classname="different-test" time="35.73" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Does not add empty or blank tasks" classname="different-test" time="7.840" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
